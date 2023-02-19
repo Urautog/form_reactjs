@@ -1,0 +1,28 @@
+.btn {
+  background-color: #ffc100;
+  padding: 0 10px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.btn-yellow {
+  background-color: #ffc100;
+  border: 2px solid #b48614;
+}
+
+.btn-green {
+  background-color: #6fad48;
+  border: 2px solid #537634;
+}
+
+.btn-sm {
+  height: 30px;
+  width: 20%;
+  font-size: 12pt;
+}
+
+.btn-lg {
+  height: 40px;
+  width: 40%;
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Mogi das Cruzes",
+    "state": "São Paulo"
+  },
+  {
+    "id": "2",
+    "name": "Suzano",
+    "state": "São Paulo"
+  },
+  {
+    "id": "3",
+    "name": "Poá",
+    "state": "São Paulo"
+  },
+  {
+    "id": "4",
+    "name": "Guararema",
+    "state": "São Paulo"
+  },
+  {
+    "id": "5",
+    "name": "Angra dos Reis",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "6",
+    "name": "Niterói",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "7",
+    "name": "Itaboraí",
+    "state": "Rio de Janeiro"
+  },
+  {
+    "id": "8",
+    "name": "Belo Horizonte",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "9",
+    "name": "Monte Azul",
+    "state": "Minas Gerais"
+  },
+  {
+    "id": "10",
+    "name": "Muzambinho",
+    "state": "Minas Gerais"
+  }
+]
