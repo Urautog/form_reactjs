@@ -27,15 +27,15 @@ const App = () => {
   return (
     <>
       <div className="container">
-        <h2>Cadastro de Ingressantes</h2>
-        <Input inputType="text">Nome</Input>
-        <Select options={coursesOptions}>Curso</Select>
-        <Select options={statesOptions} handleSelect={handleStateChange}>
-          Estado
-        </Select>
-        <Select options={citiesOptions}>Cidade</Select>
-        <div>
-          <form className="buttons-container">
+        <form>
+          <h2>Cadastro de Ingressantes</h2>
+          <Input inputType="text">Nome</Input>
+          <Select options={coursesOptions}>Curso</Select>
+          <Select options={statesOptions} handleSelect={handleStateChange}>
+            Estado
+          </Select>
+          <Select options={citiesOptions}>Cidade</Select>
+          <div className="buttons-container">
             <Button className="btn btn-yellow btn-sm">Voltar</Button>
             <Button
               type="submit"
@@ -44,8 +44,8 @@ const App = () => {
             >
               Gravar
             </Button>
-          </form>
-        </div>
+          </div>
+        </form>
       </div>
     </>
   );
